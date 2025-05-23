@@ -1,6 +1,6 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : Natanael Albert 
+Nama : Natanael Albert  
 NIU : 503184  
 Sesi : 1  
 Secret String : 5e81a0446ff17e5768a993b8b7e6ef493de1a07dd671f82ef0bc3e3456543f8420250523013910 
